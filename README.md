@@ -9,6 +9,8 @@
 
 - 📄 Minhas experiências: [https://www.linkedin.com/in/caiomeletti/](https://www.linkedin.com/in/caiomeletti/)
 
+- 📚 Organizei um portfólio: [https://caiomeletti.wordpress.com/me/](https://caiomeletti.wordpress.com/me/)
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://twitter.com/meletti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meletti" height="30" width="40" /></a>
@@ -19,6 +21,7 @@
 <h3 align="left">Linguagens de Programação</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.tutorialspoint.com/vb.net/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VB" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
